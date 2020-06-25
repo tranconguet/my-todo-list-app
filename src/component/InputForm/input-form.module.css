@@ -1,0 +1,16 @@
+.InputForm{
+    margin: 20px;
+}
+
+.InputTitle{
+
+}
+
+.InputDetails{
+    width: 80%;
+    display: block;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    height: 100px;
+    resize: none;
+}

@@ -1,0 +1,12 @@
+.ResultItem{
+    width: 90%;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: brown;
+}
+.RemoveButton{
+    
+}
